@@ -29,5 +29,3 @@ Criar uma experiência virtual imersiva que combine exploração urbana, contemp
 
 *Projeto desenvolvido no Roblox Studio.*
 Link: https://www.roblox.com/pt/games/98208779707646/Lost-in-the-Forest
-
-Link: https://www.roblox.com/pt/games/98208779707646/Lost-in-the-Forest
